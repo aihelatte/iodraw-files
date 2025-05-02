@@ -193,12 +193,12 @@
             <mxRectangle x="1370" y="654" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xp7EA1X7cb127daD1YfZ-49" target="xp7EA1X7cb127daD1YfZ-50">
+        <mxCell id="xp7EA1X7cb127daD1YfZ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xp7EA1X7cb127daD1YfZ-49">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1630" y="1000" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1630" y="1060" />
-              <mxPoint x="1630" y="1032" />
-              <mxPoint x="1613" y="1032" />
+              <mxPoint x="1630" y="1003" />
             </Array>
           </mxGeometry>
         </mxCell>
