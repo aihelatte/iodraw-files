@@ -141,13 +141,13 @@
         <mxCell id="xp7EA1X7cb127daD1YfZ-32" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=20;" vertex="1" parent="1">
           <mxGeometry x="1430" y="440" width="165" height="305" as="geometry" />
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-33" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xp7EA1X7cb127daD1YfZ-33" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1545" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-34" value="后端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1483" y="552" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-35" value="登录" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="xp7EA1X7cb127daD1YfZ-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;登录&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="1540" y="190" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理员&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
