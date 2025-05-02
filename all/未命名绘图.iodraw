@@ -135,7 +135,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-31" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=20;" vertex="1" parent="1">
+        <mxCell id="xp7EA1X7cb127daD1YfZ-31" value="前端" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=20;align=left;" vertex="1" parent="1">
           <mxGeometry x="1430" y="75" width="165" height="305" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-32" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=20;" vertex="1" parent="1">
