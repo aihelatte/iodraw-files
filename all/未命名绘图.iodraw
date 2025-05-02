@@ -194,6 +194,9 @@
             <mxRectangle x="1370" y="654" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-51" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1965" y="410" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
