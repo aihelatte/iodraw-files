@@ -150,7 +150,7 @@
         <mxCell id="xp7EA1X7cb127daD1YfZ-35" value="登录" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="1540" y="190" width="70" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-36" value="登录" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="xp7EA1X7cb127daD1YfZ-36" value="管理员" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="1405" y="320" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-37" value="登录" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
@@ -163,6 +163,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xp7EA1X7cb127daD1YfZ-35" target="xp7EA1X7cb127daD1YfZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=40;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xp7EA1X7cb127daD1YfZ-35" target="xp7EA1X7cb127daD1YfZ-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
