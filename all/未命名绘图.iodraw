@@ -315,8 +315,11 @@
             <mxPoint x="1577.5" y="601.16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-85" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1260" width="120" height="80" as="geometry" />
+        <mxCell id="xp7EA1X7cb127daD1YfZ-85" value="key1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1260" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-86" value="key1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1320" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
