@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xp7EA1X7cb127daD1YfZ-1" value="运行环境: 云服务器 + 宝塔" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="290" width="1013" height="880" as="geometry" />
+        <mxCell id="xp7EA1X7cb127daD1YfZ-1" value="运行环境: 云服务器 + 宝塔" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="87" y="250" width="1013" height="880" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-15" value="后端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xp7EA1X7cb127daD1YfZ-1">
           <mxGeometry x="184" y="227.60118460019746" width="795" height="445.6465942744324" as="geometry" />
