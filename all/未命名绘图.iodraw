@@ -328,7 +328,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-89" value="UserAuthController" style="shape=card;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1210" width="150" height="70" as="geometry" />
+          <mxGeometry x="1340" y="1275" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-90" value="UserAuthService" style="shape=card;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1275" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
