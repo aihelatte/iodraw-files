@@ -337,7 +337,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-95" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=20;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1971.88" y="737.38" width="661.25" height="225" as="geometry" />
+          <mxGeometry x="1975.94" y="741.44" width="653.13" height="225" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-96" value="云服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2242.5" y="610" width="120" height="80" as="geometry" />
@@ -368,8 +368,8 @@
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-102" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=53.33333333333333;endSize=13.977777777777778;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2100" y="234.17000000000002" as="sourcePoint" />
-            <mxPoint x="2010" y="234.17000000000002" as="targetPoint" />
+            <mxPoint x="2055" y="190" as="sourcePoint" />
+            <mxPoint x="1965" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
