@@ -139,7 +139,7 @@
           <mxGeometry x="1440" y="70" width="290" height="425" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-32" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=20;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="400" width="165" height="305" as="geometry" />
+          <mxGeometry x="1440" y="370" width="360" height="620" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-33" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1545" y="160" width="60" height="30" as="geometry" />
@@ -166,7 +166,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-43" value="JWT过滤器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="650" width="120" height="83" as="geometry" />
+          <mxGeometry x="1560" y="550" width="120" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
