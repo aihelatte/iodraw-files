@@ -165,8 +165,8 @@
         <mxCell id="xp7EA1X7cb127daD1YfZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=40;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xp7EA1X7cb127daD1YfZ-35" target="xp7EA1X7cb127daD1YfZ-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-43" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="653" width="120" height="80" as="geometry" />
+        <mxCell id="xp7EA1X7cb127daD1YfZ-43" value="JWT过滤器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="650" width="120" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
