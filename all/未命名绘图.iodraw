@@ -340,18 +340,23 @@
           <mxGeometry x="1995" y="742.5" width="647.5" height="225" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-96" value="云服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2237.5" y="728" width="120" height="80" as="geometry" />
+          <mxGeometry x="2242.5" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-97" value="MySQL数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2237.5" y="1050" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-98" value="宝塔控制面板" style="swimlane;whiteSpace=wrap;html=1;startSize=35;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2242.5" y="860" width="130" height="115" as="geometry" />
+          <mxGeometry x="2237.5" y="756" width="130" height="164" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-99" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;strokeColor=default;curved=0;dashed=1;dashPattern=1 1;opacity=50;" edge="1" parent="xp7EA1X7cb127daD1YfZ-98">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="68" as="sourcePoint" />
             <mxPoint x="110" y="68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-103" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xp7EA1X7cb127daD1YfZ-99">
+          <mxGeometry x="0.0481" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-100" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=53.33333333333333;endSize=13.977777777777778;" edge="1" parent="1">
