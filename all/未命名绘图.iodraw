@@ -342,6 +342,12 @@
         <mxCell id="xp7EA1X7cb127daD1YfZ-96" value="云服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2111" y="770" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-97" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="2500" y="878" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-98" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="575" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
