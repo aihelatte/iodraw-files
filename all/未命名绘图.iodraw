@@ -322,13 +322,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-89" value="UserAuthController" style="shape=card;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1275" width="150" height="70" as="geometry" />
+          <mxGeometry x="1382.5" y="678" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-90" value="UserAuthService" style="shape=card;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1275" width="150" height="70" as="geometry" />
+          <mxGeometry x="1380" y="808" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-91" value="UserAuthDao" style="shape=card;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="1310" width="150" height="70" as="geometry" />
+          <mxGeometry x="1380" y="1068" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-93" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;strokeColor=default;curved=0;dashed=1;dashPattern=1 1;opacity=50;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
