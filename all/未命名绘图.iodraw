@@ -336,7 +336,7 @@
             <mxPoint x="1950" y="1102.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-95" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=20;align=left;" vertex="1" parent="1">
+        <mxCell id="xp7EA1X7cb127daD1YfZ-95" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;size=20;align=left;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="1922.5" y="817.5" width="497.5" height="225" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-96" value="云服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
