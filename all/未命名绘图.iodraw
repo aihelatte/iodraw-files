@@ -148,7 +148,10 @@
           <mxGeometry x="1483" y="552" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-35" value="登录" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="190" width="60" height="80" as="geometry" />
+          <mxGeometry x="1540" y="190" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-36" value="登录" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="260" width="70" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
