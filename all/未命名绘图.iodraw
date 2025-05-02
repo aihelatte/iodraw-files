@@ -316,10 +316,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-85" value="key1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="1260" width="80" height="50" as="geometry" />
+          <mxGeometry x="1440" y="948" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-87" value="key1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="1260" width="80" height="50" as="geometry" />
+        <mxCell id="xp7EA1X7cb127daD1YfZ-87" value="key2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="948" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
