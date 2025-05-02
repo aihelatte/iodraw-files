@@ -174,8 +174,10 @@
             <mxPoint x="1440" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-46" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="654" width="200" height="200" as="geometry" />
+        <mxCell id="xp7EA1X7cb127daD1YfZ-46" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1370" y="654" width="50" height="40" as="geometry">
+            <mxRectangle x="1370" y="654" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
