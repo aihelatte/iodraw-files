@@ -151,7 +151,13 @@
           <mxGeometry x="1540" y="190" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-36" value="登录" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="260" width="70" height="90" as="geometry" />
+          <mxGeometry x="1400" y="30" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-37" value="登录" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="420" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-38" value="登录" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="480" width="70" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
