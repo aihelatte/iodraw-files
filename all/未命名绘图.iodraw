@@ -168,6 +168,12 @@
         <mxCell id="xp7EA1X7cb127daD1YfZ-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;JWT过滤器&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1515" y="540" width="120" height="83" as="geometry" />
         </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=53.33333333333333;endSize=13.977777777777778;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="480" as="sourcePoint" />
+            <mxPoint x="1260" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
