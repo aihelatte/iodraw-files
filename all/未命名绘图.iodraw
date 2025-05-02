@@ -179,7 +179,7 @@
             <mxRectangle x="1370" y="654" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xp7EA1X7cb127daD1YfZ-47" value="控制层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1350" y="724" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
