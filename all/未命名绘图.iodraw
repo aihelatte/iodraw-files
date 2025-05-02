@@ -74,6 +74,9 @@
         <mxCell id="xp7EA1X7cb127daD1YfZ-1" value="运行环境: 云服务器 + 宝塔" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="580" width="1013" height="1013" as="geometry" />
         </mxCell>
+        <mxCell id="xp7EA1X7cb127daD1YfZ-16" value="前端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xp7EA1X7cb127daD1YfZ-1">
+          <mxGeometry x="135" y="45" width="718" height="142" as="geometry" />
+        </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-2" value="数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="xp7EA1X7cb127daD1YfZ-1">
           <mxGeometry x="641" y="888" width="64" height="59" as="geometry" />
         </mxCell>
@@ -115,9 +118,6 @@
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-15" value="后端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xp7EA1X7cb127daD1YfZ-1">
           <mxGeometry x="184" y="262" width="795" height="513" as="geometry" />
-        </mxCell>
-        <mxCell id="xp7EA1X7cb127daD1YfZ-16" value="前端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="xp7EA1X7cb127daD1YfZ-1">
-          <mxGeometry x="135" y="45" width="718" height="142" as="geometry" />
         </mxCell>
         <mxCell id="xp7EA1X7cb127daD1YfZ-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="xp7EA1X7cb127daD1YfZ-1" source="xp7EA1X7cb127daD1YfZ-4" target="xp7EA1X7cb127daD1YfZ-5">
           <mxGeometry relative="1" as="geometry">
