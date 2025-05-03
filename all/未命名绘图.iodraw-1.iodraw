@@ -64,11 +64,8 @@
         <mxCell id="OUJbHsbUejrAnKJRTDmq-87" value="修改联系方式" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1470" y="590" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OUJbHsbUejrAnKJRTDmq-88" value="获取详细详细" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="OUJbHsbUejrAnKJRTDmq-88" value="修改密码" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1530" y="590" width="30" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="OUJbHsbUejrAnKJRTDmq-89" value="课表导出" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="590" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
