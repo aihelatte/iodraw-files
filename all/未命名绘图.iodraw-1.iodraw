@@ -103,7 +103,7 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-42" value="教师信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1070" y="310" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-43" value="学期管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pGejNFXizqhxS0MfBY05-43" value="增加" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="730" y="520" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
