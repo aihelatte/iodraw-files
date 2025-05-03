@@ -46,6 +46,9 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pGejNFXizqhxS0MfBY05-4" target="pGejNFXizqhxS0MfBY05-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3mtaZ3nU9mwOL4eicNg7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-4" target="3mtaZ3nU9mwOL4eicNg7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-4" value="课程管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="918.5" y="190" width="125" height="48" as="geometry" />
         </mxCell>
@@ -133,7 +136,7 @@
         <mxCell id="3mtaZ3nU9mwOL4eicNg7-2" value="导出教师账号" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="886.5" y="680" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3mtaZ3nU9mwOL4eicNg7-3" value="导出班级名单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="3mtaZ3nU9mwOL4eicNg7-3" value="导出学生名单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1086" y="320" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
