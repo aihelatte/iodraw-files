@@ -94,10 +94,10 @@
           <mxGeometry x="604" y="362" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-43" value="增加" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="484" y="542" width="30" height="100" as="geometry" />
+          <mxGeometry x="440" y="520" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-44" value="修改" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="564" y="542" width="50" height="100" as="geometry" />
+          <mxGeometry x="520" y="520" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-45" value="删除" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="644" y="542" width="50" height="100" as="geometry" />
