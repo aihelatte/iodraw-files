@@ -134,7 +134,7 @@
           <mxGeometry x="886.5" y="680" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3mtaZ3nU9mwOL4eicNg7-3" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="990" y="520" width="30" height="100" as="geometry" />
+          <mxGeometry x="1056" y="320" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
