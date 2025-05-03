@@ -91,7 +91,7 @@
           <mxGeometry x="290" y="320" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-41" value="学生信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="604" y="362" width="50" height="120" as="geometry" />
+          <mxGeometry x="604" y="362" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-43" value="增加" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="30" height="100" as="geometry" />
@@ -118,7 +118,7 @@
           <mxGeometry x="1044" y="542" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-70" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="590" y="520" width="30" height="100" as="geometry" />
+          <mxGeometry x="620" y="520" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
