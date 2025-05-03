@@ -43,26 +43,6 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-6" value="学院管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="320" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-13" value="课程信息维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1308" y="217" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-14" value="课程安排管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1514" y="217" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-4" target="pGejNFXizqhxS0MfBY05-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1386" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-4" target="pGejNFXizqhxS0MfBY05-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1593" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-1" target="pGejNFXizqhxS0MfBY05-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -149,6 +129,18 @@
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-87" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="816" y="518" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pGejNFXizqhxS0MfBY05-99" value="增加" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="250" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pGejNFXizqhxS0MfBY05-100" value="修改" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="250" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pGejNFXizqhxS0MfBY05-101" value="删除" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="250" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pGejNFXizqhxS0MfBY05-102" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="250" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
