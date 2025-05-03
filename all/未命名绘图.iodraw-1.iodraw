@@ -156,7 +156,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-55" value="学生信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="pGejNFXizqhxS0MfBY05-55" value="教师信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1080" y="300" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-56" value="增加" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
