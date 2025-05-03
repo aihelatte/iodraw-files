@@ -40,10 +40,10 @@
         <mxCell id="OUJbHsbUejrAnKJRTDmq-50" value="获取课程信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="640" y="480" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OUJbHsbUejrAnKJRTDmq-51" value="修改课程信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="OUJbHsbUejrAnKJRTDmq-51" value="选课" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="700" y="480" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OUJbHsbUejrAnKJRTDmq-52" value="删除课程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="OUJbHsbUejrAnKJRTDmq-52" value="课程搜索筛选" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="760" y="480" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-53" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
