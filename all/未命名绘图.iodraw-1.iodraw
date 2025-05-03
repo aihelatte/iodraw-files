@@ -40,6 +40,9 @@
         <mxCell id="OUJbHsbUejrAnKJRTDmq-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OUJbHsbUejrAnKJRTDmq-65" target="OUJbHsbUejrAnKJRTDmq-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OUJbHsbUejrAnKJRTDmq-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OUJbHsbUejrAnKJRTDmq-65" target="OUJbHsbUejrAnKJRTDmq-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-65" value="课表功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1053" y="350" width="125" height="48" as="geometry" />
         </mxCell>
@@ -69,6 +72,15 @@
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-81" value="获取已选课程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="892.5" y="480" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OUJbHsbUejrAnKJRTDmq-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OUJbHsbUejrAnKJRTDmq-85" target="OUJbHsbUejrAnKJRTDmq-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OUJbHsbUejrAnKJRTDmq-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OUJbHsbUejrAnKJRTDmq-85" target="OUJbHsbUejrAnKJRTDmq-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OUJbHsbUejrAnKJRTDmq-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OUJbHsbUejrAnKJRTDmq-85" target="OUJbHsbUejrAnKJRTDmq-88">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-85" value="个人信息管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1265.5" y="350" width="125" height="48" as="geometry" />
