@@ -19,8 +19,8 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-5" value="公告管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1602" y="118" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-6" value="学院管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="217" width="125" height="48" as="geometry" />
+        <mxCell id="pGejNFXizqhxS0MfBY05-6" value="学院管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="20" y="217" width="60" height="143" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-7" value="系别管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="217" width="125" height="48" as="geometry" />
