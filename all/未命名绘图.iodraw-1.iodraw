@@ -22,6 +22,9 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-2" value="基础数据管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="216.5" y="180" width="157" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="pGejNFXizqhxS0MfBY05-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-3" target="pGejNFXizqhxS0MfBY05-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-3" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="880" y="118" width="125" height="48" as="geometry" />
         </mxCell>
