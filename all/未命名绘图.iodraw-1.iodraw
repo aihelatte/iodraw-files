@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="67I1STU-UAD7Gf0cO51_">
-    <mxGraphModel dx="1500" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,20 +46,6 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-14" value="课程安排管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1514" y="217" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-3" target="pGejNFXizqhxS0MfBY05-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="972" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-3" target="pGejNFXizqhxS0MfBY05-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1180" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-4" target="pGejNFXizqhxS0MfBY05-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -78,13 +64,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="432" y="93" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-1" target="pGejNFXizqhxS0MfBY05-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1076" y="93" />
             </Array>
           </mxGeometry>
         </mxCell>
