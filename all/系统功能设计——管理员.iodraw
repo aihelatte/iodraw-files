@@ -92,16 +92,16 @@
           <mxGeometry x="476" y="320" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-43" value="增加学生" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="200" y="570" width="30" height="100" as="geometry" />
+          <mxGeometry x="190" y="690" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-44" value="修改个人信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="260" y="570" width="30" height="100" as="geometry" />
+          <mxGeometry x="250" y="690" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-45" value="删除学生" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="320" y="570" width="30" height="100" as="geometry" />
+          <mxGeometry x="310" y="690" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-70" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="380" y="570" width="30" height="100" as="geometry" />
+          <mxGeometry x="370" y="690" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-83" value="教师信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="726" y="320" width="30" height="120" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="1210.5" y="320" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3mtaZ3nU9mwOL4eicNg7-1" value="导出学生名单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="440" y="570" width="30" height="100" as="geometry" />
+          <mxGeometry x="430" y="690" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3mtaZ3nU9mwOL4eicNg7-2" value="导出学生名单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="876" y="518" width="30" height="100" as="geometry" />
