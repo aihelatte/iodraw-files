@@ -34,12 +34,6 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-6" value="学院管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="320" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-11" value="学生信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="894" y="217" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-12" value="教师信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="217" width="158" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-13" value="课程信息维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1308" y="217" width="156" height="48" as="geometry" />
         </mxCell>
@@ -105,6 +99,9 @@
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-41" value="学生信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="790" y="320" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pGejNFXizqhxS0MfBY05-42" value="教师信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="370" width="50" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
