@@ -20,7 +20,7 @@
           <mxGeometry x="652.5" y="350" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-24" value="获取公告" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="125" height="48" as="geometry" />
+          <mxGeometry x="400" y="350" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-50" value="获取课程信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="640" y="480" width="30" height="120" as="geometry" />
@@ -35,16 +35,16 @@
           <mxGeometry x="1100" y="350" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-66" value="获取已选课程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="480" width="30" height="120" as="geometry" />
+          <mxGeometry x="1057.5" y="480" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-67" value="课表渲染" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="480" width="30" height="120" as="geometry" />
+          <mxGeometry x="1117.5" y="480" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-68" value="获取详细详细" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="480" width="30" height="120" as="geometry" />
+          <mxGeometry x="1177.5" y="480" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-69" value="课表导出" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="480" width="30" height="120" as="geometry" />
+          <mxGeometry x="1237.5" y="480" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-79" value="退课功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="862" y="350" width="125" height="48" as="geometry" />
