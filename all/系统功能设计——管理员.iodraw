@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-4" value="课程管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="918.5" y="190" width="125" height="48" as="geometry" />
+          <mxGeometry x="1152.5" y="170" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pGejNFXizqhxS0MfBY05-5" target="pGejNFXizqhxS0MfBY05-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-5" value="公告管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1232.5" y="190" width="125" height="48" as="geometry" />
+          <mxGeometry x="1466.5" y="170" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-6" value="学院管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="110" y="320" width="30" height="100" as="geometry" />
@@ -110,25 +110,25 @@
           <mxGeometry x="826.5" y="680" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-99" value="增设课程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="846" y="320" width="30" height="100" as="geometry" />
+          <mxGeometry x="1080" y="300" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-100" value="修改课程信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="906" y="320" width="30" height="100" as="geometry" />
+          <mxGeometry x="1140" y="300" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-101" value="删除课程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="966" y="320" width="30" height="100" as="geometry" />
+          <mxGeometry x="1200" y="300" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-102" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1026" y="320" width="30" height="100" as="geometry" />
+          <mxGeometry x="1260" y="300" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-107" value="添加公告" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="320" width="30" height="100" as="geometry" />
+          <mxGeometry x="1454" y="300" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-109" value="删除公告" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="320" width="30" height="100" as="geometry" />
+          <mxGeometry x="1514" y="300" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-110" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="320" width="30" height="100" as="geometry" />
+          <mxGeometry x="1574" y="300" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3mtaZ3nU9mwOL4eicNg7-1" value="导出学生账号" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="590" y="680" width="30" height="100" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="886.5" y="680" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3mtaZ3nU9mwOL4eicNg7-3" value="导出学生名单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1086" y="320" width="30" height="100" as="geometry" />
+          <mxGeometry x="1320" y="300" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
