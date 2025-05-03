@@ -82,7 +82,7 @@
         <mxCell id="OUJbHsbUejrAnKJRTDmq-79" value="退课功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1082.5" y="670" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="OUJbHsbUejrAnKJRTDmq-80" value="增设课程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="OUJbHsbUejrAnKJRTDmq-80" value="退选课程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1010" y="800" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-81" value="修改课程信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
