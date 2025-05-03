@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="67I1STU-UAD7Gf0cO51_">
-    <mxGraphModel dx="1235" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-3" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="750" y="180" width="125" height="48" as="geometry" />
+          <mxGeometry x="724" y="180" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-4" value="课程管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1427" y="118" width="125" height="48" as="geometry" />
@@ -106,8 +106,8 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-41" target="pGejNFXizqhxS0MfBY05-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="655" y="512" />
-              <mxPoint x="535" y="512" />
+              <mxPoint x="629" y="512" />
+              <mxPoint x="509" y="512" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -120,31 +120,31 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-41" target="pGejNFXizqhxS0MfBY05-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="655" y="512" />
-              <mxPoint x="775" y="512" />
+              <mxPoint x="629" y="512" />
+              <mxPoint x="749" y="512" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-41" value="学生信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="630" y="362" width="50" height="120" as="geometry" />
+          <mxGeometry x="604" y="362" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-43" value="增加" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="510" y="542" width="50" height="100" as="geometry" />
+          <mxGeometry x="484" y="542" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-44" value="修改" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="590" y="542" width="50" height="100" as="geometry" />
+          <mxGeometry x="564" y="542" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-45" value="删除" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="670" y="542" width="50" height="100" as="geometry" />
+          <mxGeometry x="644" y="542" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-46" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="750" y="542" width="50" height="100" as="geometry" />
+          <mxGeometry x="724" y="542" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-55" target="pGejNFXizqhxS0MfBY05-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="975" y="512" />
-              <mxPoint x="855" y="512" />
+              <mxPoint x="949" y="512" />
+              <mxPoint x="829" y="512" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -157,25 +157,25 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-55" target="pGejNFXizqhxS0MfBY05-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="975" y="512" />
-              <mxPoint x="1095" y="512" />
+              <mxPoint x="949" y="512" />
+              <mxPoint x="1069" y="512" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-55" value="教师信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="950" y="362" width="50" height="120" as="geometry" />
+          <mxGeometry x="924" y="362" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-56" value="增加" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="830" y="542" width="50" height="100" as="geometry" />
+          <mxGeometry x="804" y="542" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-57" value="修改" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="910" y="542" width="50" height="100" as="geometry" />
+          <mxGeometry x="884" y="542" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-58" value="删除" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="990" y="542" width="50" height="100" as="geometry" />
+          <mxGeometry x="964" y="542" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-59" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="542" width="50" height="100" as="geometry" />
+          <mxGeometry x="1044" y="542" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
