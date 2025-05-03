@@ -181,7 +181,7 @@
         <mxCell id="hA_8rnYnt_V7AFCemXjc-59" value="导出学生名单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1342.5" y="450" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cilYnAZQyO0bwhNqzuQg-6" value="学生功能模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="cilYnAZQyO0bwhNqzuQg-6" value="教师功能模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="743.5" y="860" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cilYnAZQyO0bwhNqzuQg-10" value="授课详情" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
