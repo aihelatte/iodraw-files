@@ -98,7 +98,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-41" target="pGejNFXizqhxS0MfBY05-43">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="450" />
+              <mxPoint x="665" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-41" target="pGejNFXizqhxS0MfBY05-44">
           <mxGeometry relative="1" as="geometry" />
@@ -116,9 +121,6 @@
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-41" value="学生信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="760" y="300" width="50" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-42" value="教师信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="310" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-43" value="增加" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="480" width="50" height="100" as="geometry" />
