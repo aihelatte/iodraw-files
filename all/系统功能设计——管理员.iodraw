@@ -148,13 +148,13 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-100" value="修改课程信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="906" y="320" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-101" value="删除" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="pGejNFXizqhxS0MfBY05-101" value="删除课程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="966" y="320" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-102" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1026" y="320" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-107" value="增加" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="pGejNFXizqhxS0MfBY05-107" value="添加公告" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1090.5" y="320" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-109" value="删除" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
