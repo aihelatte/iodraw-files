@@ -46,7 +46,7 @@
         <mxCell id="OUJbHsbUejrAnKJRTDmq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="OUJbHsbUejrAnKJRTDmq-65" target="OUJbHsbUejrAnKJRTDmq-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OUJbHsbUejrAnKJRTDmq-65" value="课程管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="OUJbHsbUejrAnKJRTDmq-65" value="课表功能" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1262.5" y="350" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OUJbHsbUejrAnKJRTDmq-66" value="增设课程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
