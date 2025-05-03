@@ -136,13 +136,13 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-85" value="修改个人信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="696" y="518" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-86" value="删除" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="pGejNFXizqhxS0MfBY05-86" value="删除学生" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="756" y="518" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-87" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="816" y="518" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pGejNFXizqhxS0MfBY05-99" value="增加" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="pGejNFXizqhxS0MfBY05-99" value="增设课程" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="846" y="320" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-100" value="修改" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" parent="1" vertex="1">
