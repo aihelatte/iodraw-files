@@ -185,16 +185,16 @@
           <mxGeometry x="743.5" y="860" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cilYnAZQyO0bwhNqzuQg-10" value="授课详情" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="566" y="970" width="125" height="48" as="geometry" />
+          <mxGeometry x="797.5" y="1064" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cilYnAZQyO0bwhNqzuQg-11" value="获取公告" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1169.5" y="1064" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cilYnAZQyO0bwhNqzuQg-12" value="获取授课信息" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="885.5" y="1194" width="30" height="120" as="geometry" />
+          <mxGeometry x="875" y="1194" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cilYnAZQyO0bwhNqzuQg-14" value="导出学生名单" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="825.5" y="1194" width="30" height="120" as="geometry" />
+          <mxGeometry x="815" y="1194" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cilYnAZQyO0bwhNqzuQg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cilYnAZQyO0bwhNqzuQg-32" target="cilYnAZQyO0bwhNqzuQg-33">
           <mxGeometry relative="1" as="geometry" />
