@@ -96,6 +96,12 @@
         <mxCell id="pGejNFXizqhxS0MfBY05-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-41" target="pGejNFXizqhxS0MfBY05-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pGejNFXizqhxS0MfBY05-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-41" target="pGejNFXizqhxS0MfBY05-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pGejNFXizqhxS0MfBY05-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-41" target="pGejNFXizqhxS0MfBY05-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-41" value="学生信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="530" y="362" width="30" height="120" as="geometry" />
         </mxCell>
@@ -110,6 +116,9 @@
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-70" value="查找、获取" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="620" y="560" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pGejNFXizqhxS0MfBY05-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGejNFXizqhxS0MfBY05-83" target="pGejNFXizqhxS0MfBY05-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pGejNFXizqhxS0MfBY05-83" value="教师信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="780" y="362" width="30" height="120" as="geometry" />
