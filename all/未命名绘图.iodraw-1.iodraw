@@ -103,6 +103,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="pGejNFXizqhxS0MfBY05-41" value="学生信息管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="790" y="320" width="50" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
