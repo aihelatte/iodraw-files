@@ -93,7 +93,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cvA2S_T9Hc1djIeukuoZ-22" value="无权限" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.623;entryY=0.063;rounded=0;fontSize=18;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cvA2S_T9Hc1djIeukuoZ-10" target="cvA2S_T9Hc1djIeukuoZ-11">
+        <mxCell id="cvA2S_T9Hc1djIeukuoZ-22" value="无权限" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;fontSize=18;entryDx=0;entryDy=0;" edge="1" parent="1" source="cvA2S_T9Hc1djIeukuoZ-10" target="cvA2S_T9Hc1djIeukuoZ-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="1080" />
@@ -103,7 +103,8 @@
         <mxCell id="cvA2S_T9Hc1djIeukuoZ-23" value="有权限" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="cvA2S_T9Hc1djIeukuoZ-10" target="cvA2S_T9Hc1djIeukuoZ-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="575" y="1140" />
+              <mxPoint x="550" y="1040" />
+              <mxPoint x="570" y="1080" />
             </Array>
           </mxGeometry>
         </mxCell>
