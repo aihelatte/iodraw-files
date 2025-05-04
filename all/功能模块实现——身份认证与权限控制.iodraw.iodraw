@@ -28,11 +28,11 @@
         <mxCell id="cvA2S_T9Hc1djIeukuoZ-8" value="返回401未授权" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="170" y="844" width="167" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="cvA2S_T9Hc1djIeukuoZ-9" value="解析用户ID及权限" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="372" y="850" width="188" height="48" as="geometry" />
+        <mxCell id="cvA2S_T9Hc1djIeukuoZ-9" value="解析用户ID及权限（ID可用于业务逻辑）" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="372" y="850" width="188" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cvA2S_T9Hc1djIeukuoZ-10" value="权限校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="409" y="990" width="114" height="114" as="geometry" />
+          <mxGeometry x="409" y="950" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="cvA2S_T9Hc1djIeukuoZ-11" value="返回403禁止访问" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="265" y="1177" width="182" height="48" as="geometry" />
