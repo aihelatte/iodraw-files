@@ -13,7 +13,7 @@
         <mxCell id="cvA2S_T9Hc1djIeukuoZ-3" value="返回登录失败信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="336" width="190" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="cvA2S_T9Hc1djIeukuoZ-4" value="JwtUtil生成Token" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="cvA2S_T9Hc1djIeukuoZ-4" value="JwtUtil生成Token（包含id、权限）" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="260" y="336" width="185" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cvA2S_T9Hc1djIeukuoZ-5" value="返回Token至客户端" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
