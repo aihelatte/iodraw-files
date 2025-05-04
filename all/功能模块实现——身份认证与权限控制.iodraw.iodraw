@@ -19,8 +19,8 @@
         <mxCell id="cvA2S_T9Hc1djIeukuoZ-5" value="返回Token至客户端" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="253" y="434" width="199" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="cvA2S_T9Hc1djIeukuoZ-6" value="用户携带Token请求业务接口" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230" y="533" width="245" height="66" as="geometry" />
+        <mxCell id="cvA2S_T9Hc1djIeukuoZ-6" value="用户携带Token发出后续请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="230" y="533" width="245" height="47" as="geometry" />
         </mxCell>
         <mxCell id="cvA2S_T9Hc1djIeukuoZ-7" value="Token有效性验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="267" y="649" width="171" height="171" as="geometry" />
