@@ -17,16 +17,16 @@
           <mxGeometry x="20" y="421" width="251" height="66" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--5" value="检查已选课程时间段是否重叠" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="321" y="451" width="254" height="66" as="geometry" />
+          <mxGeometry x="321" y="421" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--6" value="返回错误: 不可重复选课" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="29" y="560" width="232" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--7" value="返回错误: 时间冲突" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="348" y="590" width="200" height="48" as="geometry" />
+          <mxGeometry x="348" y="560" width="200" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--8" value="查询Redis剩余名额" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="661" y="460" width="194" height="48" as="geometry" />
+          <mxGeometry x="661" y="430" width="194" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--9" value="名额 &gt; 0?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="689" y="902" width="137" height="88" as="geometry" />
