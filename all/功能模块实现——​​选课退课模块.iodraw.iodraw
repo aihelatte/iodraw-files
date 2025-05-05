@@ -32,7 +32,7 @@
           <mxGeometry x="689" y="902" width="137" height="88" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--10" value="调用RedisUtil初始化名额" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="746" y="590" width="236" height="48" as="geometry" />
+          <mxGeometry x="746" y="560" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--11" value="从数据库读取课程初始容量" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="737" y="688" width="254" height="48" as="geometry" />
