@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="z_FW9MXvhiKhGXYEVwqn">
-    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-2" value="点击编辑按钮，&#xa;前端获取辅助信息&#xa;（学院、系别、班级等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="129" y="118" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="Da2ExjqUqXBkworp9itR-3" value="前端获取辅助信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="112" y="217" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-4" value="管理员编辑学生信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="104" y="338" width="205" height="48" as="geometry" />
@@ -44,16 +41,6 @@
           <mxGeometry x="342" y="1320" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Da2ExjqUqXBkworp9itR-1" target="Da2ExjqUqXBkworp9itR-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Da2ExjqUqXBkworp9itR-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Da2ExjqUqXBkworp9itR-2" target="Da2ExjqUqXBkworp9itR-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Da2ExjqUqXBkworp9itR-16" value="学院/系别/班级数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Da2ExjqUqXBkworp9itR-3" target="Da2ExjqUqXBkworp9itR-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
