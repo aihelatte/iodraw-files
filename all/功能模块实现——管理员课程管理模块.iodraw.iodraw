@@ -35,10 +35,10 @@
           <mxGeometry x="631" y="1037" width="200" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-13" value="插入course表记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="895" y="908" width="187" height="48" as="geometry" />
+          <mxGeometry x="1054" y="908" width="187" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-14" value="返回添加成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1037" width="157" height="48" as="geometry" />
+          <mxGeometry x="1069" y="1037" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-20" value="校验项1: 教师重复开课" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-5" target="G7jowMSofqyXyHcXgowT-7">
           <mxGeometry relative="1" as="geometry">
