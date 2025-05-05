@@ -61,7 +61,7 @@
         <mxCell id="G7jowMSofqyXyHcXgowT-21" value="校验项2: 学分合规" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=18;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-5" target="G7jowMSofqyXyHcXgowT-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="800" />
+              <mxPoint x="550" y="810" />
             </Array>
             <mxPoint x="630" y="830" as="sourcePoint" />
             <mxPoint x="459" y="910.9999999999998" as="targetPoint" />
@@ -92,7 +92,7 @@
         <mxCell id="G7jowMSofqyXyHcXgowT-26" value="全部合法" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-5" target="G7jowMSofqyXyHcXgowT-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1070" y="790" />
+              <mxPoint x="990" y="780" />
             </Array>
             <mxPoint x="920" y="820" as="sourcePoint" />
             <mxPoint x="1002.5" y="920" as="targetPoint" />
