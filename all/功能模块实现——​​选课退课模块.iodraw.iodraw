@@ -41,7 +41,7 @@
           <mxGeometry x="736" y="786" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--13" value="返回错误: 课程已满" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="523" y="1090" width="200" height="48" as="geometry" />
+          <mxGeometry x="523" y="1070" width="200" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--14" value="原子扣减Redis名额: DECR" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="772" y="1090" width="242" height="48" as="geometry" />
