@@ -13,6 +13,9 @@
         <mxCell id="G7jowMSofqyXyHcXgowT-5" value="后端校验数据合法性" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="686" y="560" width="145" height="108" as="geometry" />
         </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-6" value="提交课程信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="624" y="762" width="206" height="48" as="geometry" />
+        </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-7" value="查询该教师是否已发布同名课程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="899" width="252" height="66" as="geometry" />
         </mxCell>
@@ -37,34 +40,28 @@
         <mxCell id="G7jowMSofqyXyHcXgowT-14" value="返回添加成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="910" y="1037" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="713" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-20" value="校验项1: 教师重复开课" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="G7jowMSofqyXyHcXgowT-7">
+        <mxCell id="G7jowMSofqyXyHcXgowT-20" value="校验项1: 教师重复开课" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="146" y="863" />
+              <mxPoint x="160" y="875" />
             </Array>
-            <mxPoint x="610" y="788.4000000000001" as="sourcePoint" />
+            <mxPoint x="160" y="910.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-21" value="校验项2: 学分合规" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="G7jowMSofqyXyHcXgowT-8">
+        <mxCell id="G7jowMSofqyXyHcXgowT-21" value="校验项2: 学分合规" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="445" y="863" />
+              <mxPoint x="459" y="875" />
             </Array>
-            <mxPoint x="656.4509803921569" y="798" as="sourcePoint" />
+            <mxPoint x="459" y="910.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-22" value="校验项X:…… " style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="G7jowMSofqyXyHcXgowT-9">
+        <mxCell id="G7jowMSofqyXyHcXgowT-22" value="校验项X:…… " style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="731" y="863" />
+              <mxPoint x="745" y="875" />
             </Array>
-            <mxPoint x="769.5490196078431" y="798" as="sourcePoint" />
+            <mxPoint x="745.5" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-23" value="存在重复" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-7" target="G7jowMSofqyXyHcXgowT-10">
@@ -82,12 +79,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-26" value="全部合法" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="G7jowMSofqyXyHcXgowT-13">
+        <mxCell id="G7jowMSofqyXyHcXgowT-26" value="全部合法" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="988" y="863" />
+              <mxPoint x="1002" y="875" />
             </Array>
-            <mxPoint x="816" y="789.8400000000001" as="sourcePoint" />
+            <mxPoint x="1002.5" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-13" target="G7jowMSofqyXyHcXgowT-14">
