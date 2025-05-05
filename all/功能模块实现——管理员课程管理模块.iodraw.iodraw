@@ -11,10 +11,10 @@
           <mxGeometry x="510" y="440" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-5" value="后端校验数据合法性" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="686" y="560" width="145" height="108" as="geometry" />
+          <mxGeometry x="658.5" y="710" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-6" value="提交课程信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="624" y="762" width="206" height="48" as="geometry" />
+          <mxGeometry x="930" y="540" width="206" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-7" value="查询该教师是否已发布同名课程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="899" width="252" height="66" as="geometry" />
@@ -82,11 +82,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-26" value="全部合法" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-6">
+        <mxCell id="G7jowMSofqyXyHcXgowT-26" value="全部合法" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1002" y="875" />
             </Array>
+            <mxPoint x="920" y="820" as="sourcePoint" />
             <mxPoint x="1002.5" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
