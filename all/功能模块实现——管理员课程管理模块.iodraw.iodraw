@@ -26,7 +26,7 @@
           <mxGeometry x="649" y="600" width="164" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-7" value="查询该教师是否已发布同名课程" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="90" y="899" width="252" height="66" as="geometry" />
+          <mxGeometry x="95" y="899" width="242" height="66" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-8" value="学分值是否在1-6范围内" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="360" y="899" width="218" height="66" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="649" y="908" width="165" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-10" value="返回错误: 课程已存在" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1037" width="194" height="48" as="geometry" />
+          <mxGeometry x="119" y="1037" width="194" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-11" value="返回错误: 学分超限" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="369" y="1037" width="200" height="48" as="geometry" />
