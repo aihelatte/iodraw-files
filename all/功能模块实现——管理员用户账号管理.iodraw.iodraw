@@ -7,7 +7,7 @@
         <mxCell id="Da2ExjqUqXBkworp9itR-1" value="后端发送学生信息&#xa;前端展示学生列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="113" y="20" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Da2ExjqUqXBkworp9itR-2" value="点击编辑按钮，&#xa;前端获取辅助信息&#xa;（）&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Da2ExjqUqXBkworp9itR-2" value="点击编辑按钮，&#xa;前端获取辅助信息&#xa;（学院、系别、班级等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="129" y="118" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-3" value="前端获取辅助信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
