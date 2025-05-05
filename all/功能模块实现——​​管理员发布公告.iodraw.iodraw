@@ -40,13 +40,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="g7Yc6tZ_6p2C6KTI4Sl3-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="422" y="668" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-13" value="标题或内容为空" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="1" target="g7Yc6tZ_6p2C6KTI4Sl3-6">
+        <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-13" value="内容不合法" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="1" target="g7Yc6tZ_6p2C6KTI4Sl3-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="305" y="752" />
