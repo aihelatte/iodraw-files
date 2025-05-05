@@ -11,10 +11,10 @@
           <mxGeometry x="510" y="440" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-5" value="后端校验数据合法性" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="516" y="583" width="145" height="145" as="geometry" />
+          <mxGeometry x="516" y="620" width="145" height="108" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-6" value="提交课程信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="485" y="778" width="206" height="48" as="geometry" />
+          <mxGeometry x="661" y="750" width="206" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-7" value="查询该教师是否已发布同名课程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="899" width="252" height="66" as="geometry" />
