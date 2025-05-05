@@ -126,14 +126,14 @@
         <mxCell id="QZ2odty41o0Oqz-TYLh--29" value="名额不足" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="QZ2odty41o0Oqz-TYLh--9" target="QZ2odty41o0Oqz-TYLh--13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="623" y="1076" />
+              <mxPoint x="630" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--30" value="名额充足" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="QZ2odty41o0Oqz-TYLh--9" target="QZ2odty41o0Oqz-TYLh--14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="893" y="1076" />
+              <mxPoint x="870" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
