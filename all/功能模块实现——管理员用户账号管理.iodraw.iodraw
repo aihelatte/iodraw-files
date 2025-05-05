@@ -8,19 +8,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-1" value="后端发送学生信息&#xa;前端展示学生列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="113" y="20" width="188" height="48" as="geometry" />
+          <mxGeometry x="113" y="30" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="8bWKscQv1vDET4yuF9mD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Da2ExjqUqXBkworp9itR-2" target="Da2ExjqUqXBkworp9itR-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-2" value="点击编辑按钮，&#xa;前端获取辅助信息&#xa;（学院、班级等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="125" y="100" width="164" height="70" as="geometry" />
+          <mxGeometry x="125" y="110" width="164" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Da2ExjqUqXBkworp9itR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="Da2ExjqUqXBkworp9itR-4" target="Da2ExjqUqXBkworp9itR-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Da2ExjqUqXBkworp9itR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="Da2ExjqUqXBkworp9itR-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="207" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-4" value="管理员编辑学生信息，&#xa;提交修改请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="104.5" y="210" width="205" height="48" as="geometry" />
+          <mxGeometry x="104.5" y="220" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-6" value="后端校验请求体" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="120" y="300" width="174" height="48" as="geometry" />
