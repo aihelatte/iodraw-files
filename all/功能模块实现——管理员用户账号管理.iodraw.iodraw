@@ -26,7 +26,7 @@
           <mxGeometry x="120" y="300" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-7" value="合法性检查" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="142" y="380" width="130" height="81" as="geometry" />
+          <mxGeometry x="142" y="380" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-8" value="返回400错误" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="517" width="151" height="48" as="geometry" />
