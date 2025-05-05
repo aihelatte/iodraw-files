@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QZ2odty41o0Oqz-TYLh--1" value="前端展示课程列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="354" y="30" width="188" height="48" as="geometry" />
+          <mxGeometry x="353" y="30" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--2" value="学生发起选课请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="353" y="120" width="189" height="48" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="367" y="217" width="162" height="103" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--4" value="查询enrollment表是否存在记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="20" y="451" width="251" height="66" as="geometry" />
+          <mxGeometry x="20" y="451" width="251" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--5" value="检查已选课程时间段是否重叠" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="321" y="451" width="254" height="66" as="geometry" />
