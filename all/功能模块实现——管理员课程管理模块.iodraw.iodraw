@@ -1,0 +1,125 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="rNlY_ozoivqB_PWhZpMf">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G7jowMSofqyXyHcXgowT-1" value="管理员点击添加课程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="486" y="20" width="205" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-2" value="请求辅助信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="118" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-3" value="后端返回学院/教师列表" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="479" y="217" width="218" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-4" value="填写课程表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="484" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-5" value="提交课程信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="516" y="583" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-6" value="后端校验数据合法性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="485" y="778" width="206" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-7" value="查询该教师是否已发布同名课程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="899" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-8" value="检查同一教室/教师时段是否重叠" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="322" y="899" width="246" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-9" value="学分值是否在1-6范围内" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="618" y="908" width="227" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-10" value="返回错误: 课程已存在" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="38" y="1037" width="216" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-11" value="返回错误: 时间冲突" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1037" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-12" value="返回错误: 学分超限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="631" y="1037" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-13" value="插入course表记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="895" y="908" width="187" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-14" value="返回添加成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1037" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-1" target="G7jowMSofqyXyHcXgowT-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-2" target="G7jowMSofqyXyHcXgowT-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-3" target="G7jowMSofqyXyHcXgowT-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-4" target="G7jowMSofqyXyHcXgowT-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-5" target="G7jowMSofqyXyHcXgowT-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-20" value="校验项1: 教师重复开课" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-6" target="G7jowMSofqyXyHcXgowT-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="863" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-21" value="校验项2: 时间冲突" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-6" target="G7jowMSofqyXyHcXgowT-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="863" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-22" value="校验项3: 学分合规" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-6" target="G7jowMSofqyXyHcXgowT-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="863" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-23" value="存在重复" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-7" target="G7jowMSofqyXyHcXgowT-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-24" value="存在冲突" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-8" target="G7jowMSofqyXyHcXgowT-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-25" value="学分非法" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-9" target="G7jowMSofqyXyHcXgowT-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-26" value="全部合法" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-6" target="G7jowMSofqyXyHcXgowT-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="988" y="863" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7jowMSofqyXyHcXgowT-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-13" target="G7jowMSofqyXyHcXgowT-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
