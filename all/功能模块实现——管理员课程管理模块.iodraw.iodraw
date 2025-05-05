@@ -29,7 +29,7 @@
           <mxGeometry x="20" y="899" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-8" value="学分值是否在1-6范围内" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="336" y="899" width="218" height="66" as="geometry" />
+          <mxGeometry x="360" y="899" width="218" height="66" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-9" value="……" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="618" y="908" width="227" height="48" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="38" y="1037" width="216" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-11" value="返回错误: 学分超限" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1037" width="200" height="48" as="geometry" />
+          <mxGeometry x="369" y="1037" width="200" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-12" value="……" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="631" y="1037" width="200" height="48" as="geometry" />
