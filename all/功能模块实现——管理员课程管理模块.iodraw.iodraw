@@ -49,7 +49,7 @@
             <mxPoint x="130" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-21" value="校验项2: 学分合规" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1">
+        <mxCell id="G7jowMSofqyXyHcXgowT-21" value="校验项2: 学分合规" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=18;entryDx=0;entryDy=0;" edge="1" parent="1" target="G7jowMSofqyXyHcXgowT-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="459" y="875" />
