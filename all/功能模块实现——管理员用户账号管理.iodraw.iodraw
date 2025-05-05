@@ -16,10 +16,8 @@
         <mxCell id="Da2ExjqUqXBkworp9itR-2" value="点击编辑按钮，&#xa;前端获取辅助信息&#xa;（学院、班级等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="125" y="110" width="164" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Da2ExjqUqXBkworp9itR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="Da2ExjqUqXBkworp9itR-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="207" y="310" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="8bWKscQv1vDET4yuF9mD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Da2ExjqUqXBkworp9itR-4" target="Da2ExjqUqXBkworp9itR-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-4" value="管理员编辑学生信息，&#xa;提交修改请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="104.5" y="220" width="205" height="48" as="geometry" />
@@ -37,16 +35,16 @@
           <mxGeometry x="221" y="517" width="195" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-10" value="记录存在?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="259" y="610" width="119" height="80" as="geometry" />
+          <mxGeometry x="257.5" y="595" width="119" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-11" value="返回404错误" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="141" y="730" width="151" height="48" as="geometry" />
+          <mxGeometry x="139.5" y="715" width="151" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-12" value="更新学生信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="341" y="730" width="157" height="48" as="geometry" />
+          <mxGeometry x="339.5" y="715" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-13" value="返回修改成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="342" y="830" width="157" height="48" as="geometry" />
+          <mxGeometry x="340.5" y="815" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="Da2ExjqUqXBkworp9itR-6" target="Da2ExjqUqXBkworp9itR-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -67,22 +65,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Da2ExjqUqXBkworp9itR-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="Da2ExjqUqXBkworp9itR-9" target="Da2ExjqUqXBkworp9itR-10" edge="1">
+        <mxCell id="Da2ExjqUqXBkworp9itR-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" target="Da2ExjqUqXBkworp9itR-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="317" y="550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-23" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;fontSize=16;" parent="1" source="Da2ExjqUqXBkworp9itR-10" target="Da2ExjqUqXBkworp9itR-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="680" />
+              <mxPoint x="238.5" y="665" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-24" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;fontSize=16;" parent="1" source="Da2ExjqUqXBkworp9itR-10" target="Da2ExjqUqXBkworp9itR-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="680" />
+              <mxPoint x="398.5" y="665" />
             </Array>
           </mxGeometry>
         </mxCell>
