@@ -35,10 +35,10 @@
           <mxGeometry x="746" y="560" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--11" value="从数据库读取课程初始容量" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="737" y="688" width="254" height="48" as="geometry" />
+          <mxGeometry x="737" y="658" width="254" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--12" value="写入Redis: SET course:1001 50" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="736" y="786" width="256" height="66" as="geometry" />
+          <mxGeometry x="736" y="756" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--13" value="返回错误: 课程已满" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="523" y="1070" width="200" height="48" as="geometry" />
