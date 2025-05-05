@@ -83,7 +83,7 @@
         <mxCell id="G7jowMSofqyXyHcXgowT-26" value="全部合法" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-5" target="G7jowMSofqyXyHcXgowT-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="950" y="800" />
+              <mxPoint x="1000" y="770" />
             </Array>
             <mxPoint x="920" y="820" as="sourcePoint" />
             <mxPoint x="1002.5" y="920" as="targetPoint" />
