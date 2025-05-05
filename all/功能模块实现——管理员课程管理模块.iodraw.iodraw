@@ -10,9 +10,6 @@
         <mxCell id="G7jowMSofqyXyHcXgowT-2" value="请求辅助信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="118" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-3" value="后端返回学院/教师列表" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="479" y="217" width="218" height="218" as="geometry" />
-        </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-4" value="填写课程表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="484" width="157" height="48" as="geometry" />
         </mxCell>
@@ -51,14 +48,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-2" target="G7jowMSofqyXyHcXgowT-3">
+        <mxCell id="G7jowMSofqyXyHcXgowT-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="588" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-3" target="G7jowMSofqyXyHcXgowT-4">
+        <mxCell id="G7jowMSofqyXyHcXgowT-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="G7jowMSofqyXyHcXgowT-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="588" y="435" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-4" target="G7jowMSofqyXyHcXgowT-5">
