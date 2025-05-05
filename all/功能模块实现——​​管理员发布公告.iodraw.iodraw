@@ -11,10 +11,10 @@
           <mxGeometry x="327" y="308" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-3" value="提交公告" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="302" y="407" width="238" height="48" as="geometry" />
+          <mxGeometry x="303" y="407" width="238" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-4" value="提交公告&#xa;后端校验数据合法性&#xa;" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="365" y="505" width="112" height="112" as="geometry" />
+        <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-4" value="提交公告&#xa;后端校验数据合法性" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="505" width="195" height="112" as="geometry" />
         </mxCell>
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-5" value="后端校验数据合法性" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="319" y="668" width="206" height="48" as="geometry" />
