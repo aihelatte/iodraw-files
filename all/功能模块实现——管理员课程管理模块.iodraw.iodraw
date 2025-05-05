@@ -32,7 +32,7 @@
           <mxGeometry x="360" y="899" width="218" height="66" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-9" value="……" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="618" y="908" width="227" height="48" as="geometry" />
+          <mxGeometry x="649" y="908" width="165" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-10" value="返回错误: 课程已存在" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="78" y="1037" width="216" height="48" as="geometry" />
