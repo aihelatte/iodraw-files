@@ -40,10 +40,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-13" value="内容不合法" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="1" target="g7Yc6tZ_6p2C6KTI4Sl3-6">
+        <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-13" value="内容不合法" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="g7Yc6tZ_6p2C6KTI4Sl3-4" target="g7Yc6tZ_6p2C6KTI4Sl3-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="295" y="636" />
+              <mxPoint x="310" y="610" />
             </Array>
             <mxPoint x="364.6199999999999" y="600" as="sourcePoint" />
           </mxGeometry>
@@ -51,7 +51,7 @@
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-14" value="数据合法" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="g7Yc6tZ_6p2C6KTI4Sl3-4" target="g7Yc6tZ_6p2C6KTI4Sl3-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="538" y="610" />
+              <mxPoint x="540" y="620" />
             </Array>
             <mxPoint x="467.31999999999994" y="716" as="sourcePoint" />
           </mxGeometry>
