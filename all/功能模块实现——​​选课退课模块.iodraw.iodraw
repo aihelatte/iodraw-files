@@ -41,16 +41,16 @@
           <mxGeometry x="736" y="786" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--13" value="返回错误: 课程已满" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="523" y="1112" width="200" height="48" as="geometry" />
+          <mxGeometry x="523" y="1090" width="200" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--14" value="原子扣减Redis名额: DECR" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="772" y="1112" width="242" height="48" as="geometry" />
+          <mxGeometry x="772" y="1090" width="242" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--15" value="更新enrollment表添加记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="768" y="1210" width="252" height="48" as="geometry" />
+          <mxGeometry x="768" y="1188" width="252" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--16" value="返回选课成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="815" y="1309" width="157" height="48" as="geometry" />
+          <mxGeometry x="815" y="1287" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="QZ2odty41o0Oqz-TYLh--1" target="QZ2odty41o0Oqz-TYLh--2">
           <mxGeometry relative="1" as="geometry">
