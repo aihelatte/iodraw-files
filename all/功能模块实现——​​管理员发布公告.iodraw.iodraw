@@ -17,13 +17,13 @@
           <mxGeometry x="324.5" y="500" width="195" height="120" as="geometry" />
         </mxCell>
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-6" value="返回400错误" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="220" y="672" width="151" height="48" as="geometry" />
+          <mxGeometry x="220" y="690" width="151" height="48" as="geometry" />
         </mxCell>
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-7" value="插入announcement表" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="450" y="672" width="214" height="48" as="geometry" />
+          <mxGeometry x="450" y="690" width="214" height="48" as="geometry" />
         </mxCell>
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-8" value="返回发布成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="478.5" y="760" width="157" height="48" as="geometry" />
+          <mxGeometry x="478.5" y="780" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="g7Yc6tZ_6p2C6KTI4Sl3-1" target="g7Yc6tZ_6p2C6KTI4Sl3-2">
           <mxGeometry relative="1" as="geometry">
