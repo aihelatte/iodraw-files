@@ -44,10 +44,10 @@
           <mxGeometry x="523" y="1070" width="200" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--14" value="原子扣减Redis名额: DECR" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="772" y="1090" width="242" height="48" as="geometry" />
+          <mxGeometry x="772" y="1070" width="242" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--15" value="更新enrollment表添加记录" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="768" y="1188" width="252" height="48" as="geometry" />
+          <mxGeometry x="768" y="1168" width="252" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--16" value="返回选课成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="815" y="1287" width="157" height="48" as="geometry" />
