@@ -102,7 +102,7 @@
         <mxCell id="QZ2odty41o0Oqz-TYLh--25" value="剩余名额为空" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;" parent="1" source="QZ2odty41o0Oqz-TYLh--8" target="QZ2odty41o0Oqz-TYLh--10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="860" y="520" />
+              <mxPoint x="840" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,7 +119,7 @@
         <mxCell id="QZ2odty41o0Oqz-TYLh--28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.06;rounded=0;fontSize=18;" parent="1" source="QZ2odty41o0Oqz-TYLh--12" target="QZ2odty41o0Oqz-TYLh--9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="870" />
+              <mxPoint x="850" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -133,7 +133,7 @@
         <mxCell id="QZ2odty41o0Oqz-TYLh--30" value="名额充足" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0;rounded=0;fontSize=18;" parent="1" source="QZ2odty41o0Oqz-TYLh--9" target="QZ2odty41o0Oqz-TYLh--14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="870" y="1010" />
+              <mxPoint x="870" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
