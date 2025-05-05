@@ -8,7 +8,7 @@
           <mxGeometry x="113" y="20" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-2" value="点击编辑按钮，&#xa;前端获取辅助信息&#xa;（学院、班级&#xa;等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="118" width="175" height="48" as="geometry" />
+          <mxGeometry x="113" y="100" width="175" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Da2ExjqUqXBkworp9itR-4" target="Da2ExjqUqXBkworp9itR-6">
           <mxGeometry relative="1" as="geometry" />
@@ -39,11 +39,6 @@
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-13" value="返回修改成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="342" y="850" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="Da2ExjqUqXBkworp9itR-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" edge="1" parent="1" source="Da2ExjqUqXBkworp9itR-1" target="Da2ExjqUqXBkworp9itR-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="Da2ExjqUqXBkworp9itR-6" target="Da2ExjqUqXBkworp9itR-7">
           <mxGeometry relative="1" as="geometry">
