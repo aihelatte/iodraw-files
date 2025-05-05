@@ -4,11 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="G7jowMSofqyXyHcXgowT-1" value="管理员点击添加课程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="G7jowMSofqyXyHcXgowT-1" value="管理员点击添加课程,&#xa;获得辅助信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="486" y="20" width="205" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-2" value="请求辅助信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="118" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-4" value="填写课程表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="484" width="157" height="48" as="geometry" />
@@ -43,15 +40,10 @@
         <mxCell id="G7jowMSofqyXyHcXgowT-14" value="返回添加成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="910" y="1037" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-1" target="G7jowMSofqyXyHcXgowT-2">
+        <mxCell id="G7jowMSofqyXyHcXgowT-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G7jowMSofqyXyHcXgowT-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="G7jowMSofqyXyHcXgowT-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="588" y="217" as="targetPoint" />
+            <mxPoint x="588.5" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G7jowMSofqyXyHcXgowT-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="G7jowMSofqyXyHcXgowT-4">
