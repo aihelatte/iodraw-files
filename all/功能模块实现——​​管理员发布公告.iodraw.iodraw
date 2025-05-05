@@ -8,7 +8,7 @@
           <mxGeometry x="320" y="250" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-2" value="填写标题，内容" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="327" y="340" width="190" height="48" as="geometry" />
+          <mxGeometry x="327" y="330" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-3" value="提交公告" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="351.5" y="420" width="141" height="48" as="geometry" />
@@ -43,7 +43,7 @@
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-13" value="内容不合法" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="g7Yc6tZ_6p2C6KTI4Sl3-4" target="g7Yc6tZ_6p2C6KTI4Sl3-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="610" />
+              <mxPoint x="310" y="620" />
             </Array>
             <mxPoint x="364.6199999999999" y="600" as="sourcePoint" />
           </mxGeometry>
@@ -51,7 +51,7 @@
         <mxCell id="g7Yc6tZ_6p2C6KTI4Sl3-14" value="数据合法" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="g7Yc6tZ_6p2C6KTI4Sl3-4" target="g7Yc6tZ_6p2C6KTI4Sl3-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="610" />
+              <mxPoint x="550" y="630" />
             </Array>
             <mxPoint x="467.31999999999994" y="716" as="sourcePoint" />
           </mxGeometry>
