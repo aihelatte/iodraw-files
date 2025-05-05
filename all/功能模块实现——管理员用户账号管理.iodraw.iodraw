@@ -35,10 +35,10 @@
           <mxGeometry x="259" y="630" width="119" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-11" value="返回404错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="141" y="800" width="151" height="48" as="geometry" />
+          <mxGeometry x="141" y="750" width="151" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-12" value="更新学生信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="342" y="931" width="157" height="48" as="geometry" />
+          <mxGeometry x="341" y="931" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Da2ExjqUqXBkworp9itR-13" value="返回修改成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="342" y="1029" width="157" height="48" as="geometry" />
