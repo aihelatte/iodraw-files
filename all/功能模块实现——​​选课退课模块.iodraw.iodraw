@@ -8,7 +8,7 @@
           <mxGeometry x="354" y="30" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--2" value="学生发起选课请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="353" y="118" width="189" height="48" as="geometry" />
+          <mxGeometry x="353" y="120" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="QZ2odty41o0Oqz-TYLh--3" value="后端合法性校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="367" y="217" width="162" height="103" as="geometry" />
