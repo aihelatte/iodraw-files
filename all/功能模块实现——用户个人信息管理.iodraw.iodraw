@@ -124,6 +124,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uzKXphaBEFHPtwPg1695-27" value="前端渲染表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="751" y="217" width="156" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
