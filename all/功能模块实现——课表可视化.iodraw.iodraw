@@ -7,6 +7,9 @@
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-1" value="学生进入课表页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="152" y="20" width="188" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-2" target="_zSEY9Kf128Y1uGwfDsY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-2" value="请求已选课程数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="151" y="118" width="189" height="48" as="geometry" />
         </mxCell>
@@ -69,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-19" value="后端返回JSON数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="151" y="220" width="189" height="48" as="geometry" />
+          <mxGeometry x="152" y="200" width="189" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
