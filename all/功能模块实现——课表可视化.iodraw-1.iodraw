@@ -16,9 +16,6 @@
         <mxCell id="BX7D92czuaDAp3iCWJ99-5" value="请求已选学生数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="31" y="665" width="189" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BX7D92czuaDAp3iCWJ99-6" value="后端多表联合查询" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="36" y="764" width="177" height="177" as="geometry" />
-        </mxCell>
         <mxCell id="BX7D92czuaDAp3iCWJ99-7" value="返回学生预览信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="991" width="190" height="48" as="geometry" />
         </mxCell>
@@ -44,14 +41,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BX7D92czuaDAp3iCWJ99-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BX7D92czuaDAp3iCWJ99-5" target="BX7D92czuaDAp3iCWJ99-6">
+        <mxCell id="BX7D92czuaDAp3iCWJ99-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BX7D92czuaDAp3iCWJ99-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="124.5" y="764" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BX7D92czuaDAp3iCWJ99-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BX7D92czuaDAp3iCWJ99-6" target="BX7D92czuaDAp3iCWJ99-7">
+        <mxCell id="BX7D92czuaDAp3iCWJ99-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="BX7D92czuaDAp3iCWJ99-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="124.5" y="941" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BX7D92czuaDAp3iCWJ99-16" value="点击下载" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="BX7D92czuaDAp3iCWJ99-7" target="BX7D92czuaDAp3iCWJ99-8">
@@ -67,8 +66,8 @@
         <mxCell id="BX7D92czuaDAp3iCWJ99-18" value="请求课程列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="310" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BX7D92czuaDAp3iCWJ99-20" value="请求已选学生数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="660" width="189" height="48" as="geometry" />
+        <mxCell id="BX7D92czuaDAp3iCWJ99-20" value="后端多表联合查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="31" y="790" width="189" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
