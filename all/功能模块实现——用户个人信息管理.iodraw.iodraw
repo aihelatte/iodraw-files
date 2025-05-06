@@ -124,8 +124,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uzKXphaBEFHPtwPg1695-27" value="前端渲染表单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="uzKXphaBEFHPtwPg1695-27" value="后端返回JSON数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="751" y="217" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="uzKXphaBEFHPtwPg1695-28" value="后端返回JSON数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="751" y="300" width="182" height="182" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
