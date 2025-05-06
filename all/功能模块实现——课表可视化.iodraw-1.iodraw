@@ -11,10 +11,10 @@
           <mxGeometry x="47" y="208" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BX7D92czuaDAp3iCWJ99-4" value="点击课程详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="47" y="390" width="157" height="48" as="geometry" />
+          <mxGeometry x="46" y="390" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BX7D92czuaDAp3iCWJ99-5" value="请求已选学生数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="31" y="665" width="189" height="48" as="geometry" />
+          <mxGeometry x="30" y="490" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BX7D92czuaDAp3iCWJ99-7" value="返回学生预览信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="991" width="190" height="48" as="geometry" />
