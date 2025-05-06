@@ -34,7 +34,7 @@
         <mxCell id="uzKXphaBEFHPtwPg1695-13" value="返回操作成功" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="321" y="905" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="uzKXphaBEFHPtwPg1695-17" value="修改联系方式" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" target="uzKXphaBEFHPtwPg1695-5">
+        <mxCell id="uzKXphaBEFHPtwPg1695-17" value="修改联系方式" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzKXphaBEFHPtwPg1695-28" target="uzKXphaBEFHPtwPg1695-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="262" y="534" />
@@ -42,7 +42,7 @@
             <mxPoint x="465" y="490.28" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uzKXphaBEFHPtwPg1695-18" value="修改密码" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" target="uzKXphaBEFHPtwPg1695-6">
+        <mxCell id="uzKXphaBEFHPtwPg1695-18" value="修改密码" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzKXphaBEFHPtwPg1695-28" target="uzKXphaBEFHPtwPg1695-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="809" y="534" />
