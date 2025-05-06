@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BX7D92czuaDAp3iCWJ99-1" value="教师进入授课列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="31" y="110" width="189" height="48" as="geometry" />
+          <mxGeometry x="30" y="130" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BX7D92czuaDAp3iCWJ99-2" value="请求课程列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="208" width="156" height="48" as="geometry" />
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BX7D92czuaDAp3iCWJ99-18" value="请求课程列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="47" y="310" width="156" height="48" as="geometry" />
+          <mxGeometry x="46.5" y="290" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BX7D92czuaDAp3iCWJ99-20" value="后端多表联合查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="31" y="790" width="189" height="48" as="geometry" />
