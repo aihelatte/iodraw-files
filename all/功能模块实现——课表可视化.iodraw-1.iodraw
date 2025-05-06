@@ -10,9 +10,6 @@
         <mxCell id="BX7D92czuaDAp3iCWJ99-2" value="请求课程列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="208" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BX7D92czuaDAp3iCWJ99-3" value="后端返回课程基础信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="307" width="210" height="73" as="geometry" />
-        </mxCell>
         <mxCell id="BX7D92czuaDAp3iCWJ99-4" value="点击课程详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="567" width="157" height="48" as="geometry" />
         </mxCell>
@@ -36,14 +33,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BX7D92czuaDAp3iCWJ99-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BX7D92czuaDAp3iCWJ99-2" target="BX7D92czuaDAp3iCWJ99-3">
+        <mxCell id="BX7D92czuaDAp3iCWJ99-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BX7D92czuaDAp3iCWJ99-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="125" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BX7D92czuaDAp3iCWJ99-12" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BX7D92czuaDAp3iCWJ99-3" target="BX7D92czuaDAp3iCWJ99-4">
+        <mxCell id="BX7D92czuaDAp3iCWJ99-12" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="BX7D92czuaDAp3iCWJ99-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="125.0815920292091" y="379.97163705651303" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BX7D92czuaDAp3iCWJ99-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BX7D92czuaDAp3iCWJ99-4" target="BX7D92czuaDAp3iCWJ99-5">
@@ -70,6 +69,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BX7D92czuaDAp3iCWJ99-18" value="请求课程列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="47" y="310" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
