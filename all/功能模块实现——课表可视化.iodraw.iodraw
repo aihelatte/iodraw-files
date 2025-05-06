@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="ut8pkhoqaYyQKr3897hg">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-1" value="学生进入课表页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="152" y="20" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-2" value="请求已选课程数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="151" y="118" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-3" value="后端返回JSON数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="154" y="217" width="182" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-4" value="前端解析课程时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="152" y="449" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-5" value="动态渲染课表布局" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="152" y="548" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-6" value="弹出课程详情对话框" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="668" width="205" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-7" value="请求导出课表接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="275" y="668" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-8" value="后端生成Excel文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="271" y="767" width="196" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-9" value="前端自动下载课表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="275" y="865" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-1" target="_zSEY9Kf128Y1uGwfDsY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-2" target="_zSEY9Kf128Y1uGwfDsY-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-3" target="_zSEY9Kf128Y1uGwfDsY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-4" target="_zSEY9Kf128Y1uGwfDsY-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-14" value="点击课程" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-5" target="_zSEY9Kf128Y1uGwfDsY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="122" y="632" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-15" value="点击导出" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-5" target="_zSEY9Kf128Y1uGwfDsY-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="632" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-7" target="_zSEY9Kf128Y1uGwfDsY-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-8" target="_zSEY9Kf128Y1uGwfDsY-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
