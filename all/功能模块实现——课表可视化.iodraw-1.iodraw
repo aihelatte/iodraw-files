@@ -67,6 +67,9 @@
         <mxCell id="BX7D92czuaDAp3iCWJ99-18" value="请求课程列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="310" width="156" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="BX7D92czuaDAp3iCWJ99-20" value="请求已选学生数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="660" width="189" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
