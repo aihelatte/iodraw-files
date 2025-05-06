@@ -11,7 +11,7 @@
           <mxGeometry x="151" y="118" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-3" value="后端返回JSON数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="154" y="217" width="182" height="182" as="geometry" />
+          <mxGeometry x="154" y="217" width="182" height="83" as="geometry" />
         </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-4" value="前端解析课程时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="152" y="449" width="188" height="48" as="geometry" />
