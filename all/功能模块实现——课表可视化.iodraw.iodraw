@@ -74,6 +74,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-19" value="后端返回JSON数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="189" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
