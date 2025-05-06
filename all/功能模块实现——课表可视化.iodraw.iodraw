@@ -33,12 +33,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_zSEY9Kf128Y1uGwfDsY-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-2" target="_zSEY9Kf128Y1uGwfDsY-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="245" y="217" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="_zSEY9Kf128Y1uGwfDsY-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -75,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-19" value="后端返回JSON数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="152" y="220" width="189" height="48" as="geometry" />
+          <mxGeometry x="151" y="220" width="189" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
