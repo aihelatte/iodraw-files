@@ -29,7 +29,7 @@
           <mxGeometry x="271" y="687" width="196" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-9" value="前端自动下载课表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="275" y="865" width="188" height="48" as="geometry" />
+          <mxGeometry x="275" y="785" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-1" target="_zSEY9Kf128Y1uGwfDsY-2">
           <mxGeometry relative="1" as="geometry">
