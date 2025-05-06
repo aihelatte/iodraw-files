@@ -10,9 +10,6 @@
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-2" value="请求已选课程数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="151" y="118" width="189" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="_zSEY9Kf128Y1uGwfDsY-3" value="后端返回JSON数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="154" y="217" width="182" height="83" as="geometry" />
-        </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-4" value="前端解析课程时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="152" y="340" width="188" height="48" as="geometry" />
         </mxCell>
@@ -36,14 +33,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_zSEY9Kf128Y1uGwfDsY-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-2" target="_zSEY9Kf128Y1uGwfDsY-3">
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="245" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_zSEY9Kf128Y1uGwfDsY-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-3" target="_zSEY9Kf128Y1uGwfDsY-4">
+        <mxCell id="_zSEY9Kf128Y1uGwfDsY-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="_zSEY9Kf128Y1uGwfDsY-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="245" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-4" target="_zSEY9Kf128Y1uGwfDsY-5">
@@ -54,14 +53,14 @@
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-14" value="点击课程" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-5" target="_zSEY9Kf128Y1uGwfDsY-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="122" y="632" />
+              <mxPoint x="130" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_zSEY9Kf128Y1uGwfDsY-15" value="点击导出" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="_zSEY9Kf128Y1uGwfDsY-5" target="_zSEY9Kf128Y1uGwfDsY-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="369" y="632" />
+              <mxPoint x="350" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
