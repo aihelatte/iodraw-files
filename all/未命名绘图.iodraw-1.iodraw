@@ -17,10 +17,10 @@
           <mxGeometry x="210" y="260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d6_SxcEZFj84BphBSJ53-8" value="学生账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="430" y="120" width="120" height="50" as="geometry" />
+          <mxGeometry x="430" y="130" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d6_SxcEZFj84BphBSJ53-9" value="教师账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="210" width="120" height="50" as="geometry" />
+          <mxGeometry x="480" y="340" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d6_SxcEZFj84BphBSJ53-10" value="编辑" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="60" width="90" height="40" as="geometry" />
