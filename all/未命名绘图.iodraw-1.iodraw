@@ -4,41 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AD8BEXr5sJozLIu50xXr-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="235" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4" target="AD8BEXr5sJozLIu50xXr-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4" target="AD8BEXr5sJozLIu50xXr-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="AD8BEXr5sJozLIu50xXr-4" value="student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="310" y="335" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AD8BEXr5sJozLIu50xXr-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="235" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AD8BEXr5sJozLIu50xXr-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="235" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-8" value="公告管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="440" y="460" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-9" value="课程管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="440" y="340" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-10" value="学生账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="574" y="150" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-11" value="教师账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="574" y="270" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AD8BEXr5sJozLIu50xXr-12" value="选课功能" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260" y="540" width="120" height="50" as="geometry" />
