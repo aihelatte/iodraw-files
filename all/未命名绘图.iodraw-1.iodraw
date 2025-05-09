@@ -22,51 +22,11 @@
         <mxCell id="d6_SxcEZFj84BphBSJ53-6" value="课程管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="250" y="535" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6_SxcEZFj84BphBSJ53-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6_SxcEZFj84BphBSJ53-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6_SxcEZFj84BphBSJ53-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6_SxcEZFj84BphBSJ53-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="d6_SxcEZFj84BphBSJ53-8" value="学生账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="414" y="120" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6_SxcEZFj84BphBSJ53-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6_SxcEZFj84BphBSJ53-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6_SxcEZFj84BphBSJ53-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6_SxcEZFj84BphBSJ53-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="420" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="414" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d6_SxcEZFj84BphBSJ53-22" value="教师账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="414" y="320" width="120" height="50" as="geometry" />
+          <mxGeometry x="414" y="280" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d6_SxcEZFj84BphBSJ53-27" value="编辑" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="580" width="90" height="40" as="geometry" />
