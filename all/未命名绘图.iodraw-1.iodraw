@@ -4,46 +4,46 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="d6_SxcEZFj84BphBSJ53-1" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-1" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="210" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-4" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-4" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="170" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-5" value="公告管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-5" value="公告管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="350" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-6" value="课程管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-6" value="课程管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-8" value="学生账号管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-8" value="学生账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-9" value="教师账号管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-9" value="教师账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="210" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-10" value="编辑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-10" value="编辑" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="100" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-11" value="删除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-11" value="删除" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-12" value="添加" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-12" value="添加" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="620" y="150" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-13" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-13" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-14" value="编辑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-14" value="编辑" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="500" y="460" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-15" value="删除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-15" value="删除" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="540" y="600" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-16" value="添加" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-16" value="添加" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="510" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-17" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-17" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="540" y="680" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
