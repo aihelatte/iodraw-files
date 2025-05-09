@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="AO456Cme5yuMAOYhY5aA">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5_XA2yhq5y6I3ZKgDMxg-4" target="5_XA2yhq5y6I3ZKgDMxg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5_XA2yhq5y6I3ZKgDMxg-4" target="5_XA2yhq5y6I3ZKgDMxg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5_XA2yhq5y6I3ZKgDMxg-4" target="5_XA2yhq5y6I3ZKgDMxg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-4" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="415" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5_XA2yhq5y6I3ZKgDMxg-7" target="5_XA2yhq5y6I3ZKgDMxg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5_XA2yhq5y6I3ZKgDMxg-7" target="5_XA2yhq5y6I3ZKgDMxg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-7" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-8" value="公告管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-9" value="课程管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-10" value="学生名单获取" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="484" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5_XA2yhq5y6I3ZKgDMxg-11" value="教师账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="484" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
