@@ -25,11 +25,14 @@
         <mxCell id="d6_SxcEZFj84BphBSJ53-10" value="编辑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="100" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-11" value="学生账号管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-11" value="删除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-12" value="学生账号管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6_SxcEZFj84BphBSJ53-12" value="添加" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d6_SxcEZFj84BphBSJ53-13" value="学生账号管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
