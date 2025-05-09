@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AD8BEXr5sJozLIu50xXr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4" target="AD8BEXr5sJozLIu50xXr-12">
+        <mxCell id="AD8BEXr5sJozLIu50xXr-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4" target="AD8BEXr5sJozLIu50xXr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4" target="AD8BEXr5sJozLIu50xXr-13">
+        <mxCell id="AD8BEXr5sJozLIu50xXr-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4" target="AD8BEXr5sJozLIu50xXr-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4" target="AD8BEXr5sJozLIu50xXr-18">
+        <mxCell id="AD8BEXr5sJozLIu50xXr-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4" target="AD8BEXr5sJozLIu50xXr-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AD8BEXr5sJozLIu50xXr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4" target="AD8BEXr5sJozLIu50xXr-19">
+        <mxCell id="AD8BEXr5sJozLIu50xXr-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-4" target="AD8BEXr5sJozLIu50xXr-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AD8BEXr5sJozLIu50xXr-4" value="student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="AD8BEXr5sJozLIu50xXr-18" value="课表展示" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AD8BEXr5sJozLIu50xXr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AD8BEXr5sJozLIu50xXr-19" target="AD8BEXr5sJozLIu50xXr-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AD8BEXr5sJozLIu50xXr-19" value="个人信息管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="120" height="50" as="geometry" />
