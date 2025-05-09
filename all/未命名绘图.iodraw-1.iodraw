@@ -17,7 +17,7 @@
           <mxGeometry x="210" y="260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d6_SxcEZFj84BphBSJ53-8" value="学生账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="120" height="50" as="geometry" />
+          <mxGeometry x="430" y="120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d6_SxcEZFj84BphBSJ53-9" value="教师账号管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="210" width="120" height="50" as="geometry" />
@@ -33,18 +33,6 @@
         </mxCell>
         <mxCell id="d6_SxcEZFj84BphBSJ53-13" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="210" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-14" value="编辑" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="500" y="460" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-15" value="删除" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="540" y="600" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-16" value="添加" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="510" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="d6_SxcEZFj84BphBSJ53-17" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="540" y="680" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d6_SxcEZFj84BphBSJ53-18" value="编辑" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="670" y="260" width="90" height="40" as="geometry" />
