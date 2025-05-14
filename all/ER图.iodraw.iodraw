@@ -67,7 +67,7 @@
         <mxCell id="GAttn7fdcqGTO0Mh6fs--20" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="630" y="250" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GAttn7fdcqGTO0Mh6fs--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--21" target="GAttn7fdcqGTO0Mh6fs--2">
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--21" target="GAttn7fdcqGTO0Mh6fs--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GAttn7fdcqGTO0Mh6fs--21" value="姓名" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -79,13 +79,16 @@
         <mxCell id="GAttn7fdcqGTO0Mh6fs--22" value="性别" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="660" y="180" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--23" target="GAttn7fdcqGTO0Mh6fs--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GAttn7fdcqGTO0Mh6fs--23" value="所属学院" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="490" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GAttn7fdcqGTO0Mh6fs--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--20" target="GAttn7fdcqGTO0Mh6fs--20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GAttn7fdcqGTO0Mh6fs--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.34;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--18" target="GAttn7fdcqGTO0Mh6fs--2">
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.34;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--18" target="GAttn7fdcqGTO0Mh6fs--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
