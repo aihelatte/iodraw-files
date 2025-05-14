@@ -7,13 +7,13 @@
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-1" value="学院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="355" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9eBDlCOOyIAT_ehu0rdd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9eBDlCOOyIAT_ehu0rdd-2" target="9eBDlCOOyIAT_ehu0rdd-1">
+        <mxCell id="9eBDlCOOyIAT_ehu0rdd-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9eBDlCOOyIAT_ehu0rdd-2" target="9eBDlCOOyIAT_ehu0rdd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-2" value="id" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="270" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9eBDlCOOyIAT_ehu0rdd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9eBDlCOOyIAT_ehu0rdd-3" target="9eBDlCOOyIAT_ehu0rdd-1">
+        <mxCell id="9eBDlCOOyIAT_ehu0rdd-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9eBDlCOOyIAT_ehu0rdd-3" target="9eBDlCOOyIAT_ehu0rdd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-3" value="学院名称" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
@@ -113,6 +113,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="570" as="sourcePoint" />
             <mxPoint x="360" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eBDlCOOyIAT_ehu0rdd-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9eBDlCOOyIAT_ehu0rdd-25">
+          <mxGeometry x="0.2333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9eBDlCOOyIAT_ehu0rdd-5" target="9eBDlCOOyIAT_ehu0rdd-9">
