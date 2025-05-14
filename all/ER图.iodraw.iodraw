@@ -10,7 +10,7 @@
         <mxCell id="GAttn7fdcqGTO0Mh6fs--2" value="老师" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="580" y="130" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GAttn7fdcqGTO0Mh6fs--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--3" target="GAttn7fdcqGTO0Mh6fs--1">
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--3" target="GAttn7fdcqGTO0Mh6fs--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GAttn7fdcqGTO0Mh6fs--3" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="GAttn7fdcqGTO0Mh6fs--4" value="性别" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GAttn7fdcqGTO0Mh6fs--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--5" target="GAttn7fdcqGTO0Mh6fs--1">
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--5" target="GAttn7fdcqGTO0Mh6fs--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GAttn7fdcqGTO0Mh6fs--5" value="年级" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="GAttn7fdcqGTO0Mh6fs--8" value="姓名" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="130" y="110" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GAttn7fdcqGTO0Mh6fs--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--9" target="GAttn7fdcqGTO0Mh6fs--1">
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--9" target="GAttn7fdcqGTO0Mh6fs--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GAttn7fdcqGTO0Mh6fs--9" value="电话" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="GAttn7fdcqGTO0Mh6fs--10" value="学生id" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="220" y="90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GAttn7fdcqGTO0Mh6fs--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.375;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--6" target="GAttn7fdcqGTO0Mh6fs--1">
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.375;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--6" target="GAttn7fdcqGTO0Mh6fs--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
