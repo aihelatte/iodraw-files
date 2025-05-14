@@ -13,7 +13,7 @@
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-3" value="学院名称" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9eBDlCOOyIAT_ehu0rdd-4" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9eBDlCOOyIAT_ehu0rdd-4" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="355" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-5" value="系别" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;flipH=1;flipV=0;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-8" value="年级" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="500" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9eBDlCOOyIAT_ehu0rdd-9" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9eBDlCOOyIAT_ehu0rdd-9" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="355" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-10" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-21" value="所属专业" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1220" y="315" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9eBDlCOOyIAT_ehu0rdd-22" value="id" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9eBDlCOOyIAT_ehu0rdd-22" value="所在年级" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1220" y="395" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
