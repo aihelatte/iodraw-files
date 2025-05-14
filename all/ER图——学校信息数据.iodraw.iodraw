@@ -56,10 +56,10 @@
           <mxGeometry x="880" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-19" value="id" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry x="1044.5" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-20" value="班级名称" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry x="1155.5" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-21" value="id" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1220" y="355" width="80" height="40" as="geometry" />
