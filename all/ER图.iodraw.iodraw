@@ -13,8 +13,14 @@
         <mxCell id="GAttn7fdcqGTO0Mh6fs--3" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GAttn7fdcqGTO0Mh6fs--4" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="290" width="80" height="40" as="geometry" />
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--4" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--5" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--6" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
