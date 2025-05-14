@@ -26,13 +26,16 @@
           <mxGeometry x="1100" y="355" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-8" value="年级" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;flipH=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="1100" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-9" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="355" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-10" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="355" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9eBDlCOOyIAT_ehu0rdd-11" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="430" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
