@@ -174,7 +174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kE6ZVd1_gRE-ORpqIslR-20" value="选课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="420" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kE6ZVd1_gRE-ORpqIslR-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYvwamMyPSNaHl4iC1jW-1" target="kE6ZVd1_gRE-ORpqIslR-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -182,7 +182,12 @@
             <mxPoint x="200" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kE6ZVd1_gRE-ORpqIslR-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kE6ZVd1_gRE-ORpqIslR-20" target="kE6ZVd1_gRE-ORpqIslR-1">
+        <mxCell id="kE6ZVd1_gRE-ORpqIslR-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kE6ZVd1_gRE-ORpqIslR-23">
+          <mxGeometry x="-0.003" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE6ZVd1_gRE-ORpqIslR-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.617;exitY=0.86;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="kE6ZVd1_gRE-ORpqIslR-20" target="kE6ZVd1_gRE-ORpqIslR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="520" as="sourcePoint" />
             <mxPoint x="230" y="470" as="targetPoint" />
