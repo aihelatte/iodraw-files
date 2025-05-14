@@ -176,7 +176,7 @@
         <mxCell id="kE6ZVd1_gRE-ORpqIslR-20" value="选课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kE6ZVd1_gRE-ORpqIslR-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="kE6ZVd1_gRE-ORpqIslR-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.592;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LYvwamMyPSNaHl4iC1jW-1" target="kE6ZVd1_gRE-ORpqIslR-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="480" as="sourcePoint" />
             <mxPoint x="200" y="430" as="targetPoint" />
