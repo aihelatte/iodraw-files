@@ -91,8 +91,11 @@
         <mxCell id="GAttn7fdcqGTO0Mh6fs--25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.34;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GAttn7fdcqGTO0Mh6fs--18" target="GAttn7fdcqGTO0Mh6fs--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GAttn7fdcqGTO0Mh6fs--31" value="学生" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;flipH=1;flipV=0;" vertex="1" parent="1">
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--31" value="用户认证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--32" value="所属班级" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="610" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
