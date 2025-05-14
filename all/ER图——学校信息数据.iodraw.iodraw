@@ -20,10 +20,10 @@
           <mxGeometry x="540" y="355" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-6" value="专业" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;flipH=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="747" y="355" width="80" height="40" as="geometry" />
+          <mxGeometry x="820" y="355" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-7" value="班级" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;flipH=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="315" width="80" height="40" as="geometry" />
+          <mxGeometry x="800" y="230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9eBDlCOOyIAT_ehu0rdd-8" value="年级" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="510" width="80" height="40" as="geometry" />
