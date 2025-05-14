@@ -59,19 +59,19 @@
           <mxGeometry x="170" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LYvwamMyPSNaHl4iC1jW-6" value="学分" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="100" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LYvwamMyPSNaHl4iC1jW-7" value="总容量" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LYvwamMyPSNaHl4iC1jW-8" value="已选人数" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="140" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="140" y="330" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LYvwamMyPSNaHl4iC1jW-9" value="上课日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="230" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="220" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LYvwamMyPSNaHl4iC1jW-10" value="上课时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="320" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="310" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LYvwamMyPSNaHl4iC1jW-11" value="上课地点" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="374" y="320" width="80" height="40" as="geometry" />
