@@ -182,7 +182,7 @@
             <mxPoint x="200" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kE6ZVd1_gRE-ORpqIslR-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kE6ZVd1_gRE-ORpqIslR-23">
+        <mxCell id="kE6ZVd1_gRE-ORpqIslR-25" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kE6ZVd1_gRE-ORpqIslR-23">
           <mxGeometry x="-0.003" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -191,6 +191,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="520" as="sourcePoint" />
             <mxPoint x="230" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kE6ZVd1_gRE-ORpqIslR-26" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kE6ZVd1_gRE-ORpqIslR-24">
+          <mxGeometry x="0.16" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
