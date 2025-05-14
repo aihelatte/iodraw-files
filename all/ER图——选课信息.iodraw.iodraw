@@ -67,8 +67,11 @@
         <mxCell id="LYvwamMyPSNaHl4iC1jW-8" value="已选人数" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="190" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LYvwamMyPSNaHl4iC1jW-9" value="教师id" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="LYvwamMyPSNaHl4iC1jW-9" value="上课日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="340" y="420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LYvwamMyPSNaHl4iC1jW-10" value="上课时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
