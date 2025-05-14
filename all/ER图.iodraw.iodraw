@@ -11,10 +11,10 @@
           <mxGeometry x="580" y="130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GAttn7fdcqGTO0Mh6fs--3" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GAttn7fdcqGTO0Mh6fs--4" value="性别" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="60" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GAttn7fdcqGTO0Mh6fs--5" value="年级" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="80" height="40" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="GAttn7fdcqGTO0Mh6fs--7" value="id" style="ellipse;whiteSpace=wrap;html=1;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GAttn7fdcqGTO0Mh6fs--8" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="330" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
