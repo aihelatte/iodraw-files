@@ -53,10 +53,13 @@
           <mxGeometry x="260" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LYvwamMyPSNaHl4iC1jW-3" value="授课教师" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="140" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LYvwamMyPSNaHl4iC1jW-4" value="所属学院" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="380" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="90" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LYvwamMyPSNaHl4iC1jW-6" value="教师id" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
